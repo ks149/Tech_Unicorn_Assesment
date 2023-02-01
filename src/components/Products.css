@@ -1,0 +1,47 @@
+
+
+
+.card-img-top{
+
+    width: 100px;
+    display: flex;
+   align-items: baseline;
+}
+
+.row{
+
+    position: relative;
+    margin-top: -5000px;
+    margin-right: -250px;
+
+}
+
+.row-name{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+/* identical to box height, or 58px */
+
+letter-spacing: 0.005em;
+}
+
+
+.product-list{
+    padding: 0px;
+    display: flex;
+    justify-content:left;
+    height: 90px;
+    list-style-type: none;
+    max-width:100%;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.005em;
+    color: #11142D;
+    font-weight: 500;
+}
+
+.one{
+    position: relative;
+    margin-right:500px;
+}

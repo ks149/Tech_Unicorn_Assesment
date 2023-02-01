@@ -1,0 +1,79 @@
+.hero-container{
+    width: 1440px;
+height: 640px;
+margin-top:40px;
+font-family: 'DM Sans', sans-serif;
+}
+
+.tag{
+    width: 593px;
+height: 154px;
+line-height: 120%;
+/* or 77px */
+
+letter-spacing: 0.003em;
+font-size: 28px;
+
+margin-top:170px;
+margin-left:800px;
+
+
+}
+
+.desc{
+
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 125%;
+/* or 20px */
+
+letter-spacing: 0.005em;
+
+/* Light/Text Color/Body 1 */
+
+color: #515151;
+}
+
+.ellipse153{
+    left: 68px;
+    top: 283.92px;
+    position:absolute;
+}
+
+.ellipse154{
+    left: 563.89px;
+    top: 593px;
+    position:absolute;
+}
+
+.ellipse155{
+    left: 1245.88px;
+top: 242px;
+    position:absolute;
+}
+
+.ellipse156{
+    left: 579px;
+top: 289px;
+    position:absolute;
+}
+
+.ellipse157{
+    left: 119px;
+top: 669px;
+    position:absolute;
+}
+
+.ellipse158{
+    left: 1214px;
+top: 592px;
+    position:absolute;
+}
+
+.ellipse159{
+    left: 885px;
+top: 653px;
+    position:absolute;
+}

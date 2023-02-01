@@ -1,0 +1,132 @@
+
+
+
+
+
+#brand{
+    /* Dealerz. */
+
+
+position: absolute;
+width: 152px;
+height: 47px;
+left: 94px;
+top: 25px;
+
+/* Heading/H3 Bold */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 120%;
+/* identical to box height, or 47px */
+
+letter-spacing: 0.005em;
+
+/* Light/Secondary Color/50% */
+
+color: #F86338;
+}
+
+.container{
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  justify-content:right;
+  align-items: center;
+  height: 100%;
+  list-style-type: none;
+}
+
+#call{
+    margin-right: 50px;
+    margin-top:25px;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.005em;
+    color: #11142D;
+    font-weight: 500;
+    
+}
+
+#shipping{
+    margin-top:35px;
+    margin-right:50px;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.005em;
+    color: #11142D;
+    font-weight: 500;
+}
+
+#call:before {
+  content: url('../images/callCenter.png');
+
+}
+
+#shipping:before {
+    content: url('../images/shipping.png');
+  
+  }
+
+  .bottom{
+    background-color: #E5E5E5;
+    padding: 0px;
+    display: flex;
+    justify-content:left;
+    height: 90px;
+    list-style-type: none;
+    max-width:100%;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.005em;
+    color: #11142D;
+    font-weight: 500;
+
+    
+  }
+
+  #promo{
+    margin-top: 40px;
+    margin-left:85px;
+
+    
+  }
+
+  
+  #promo2{
+    margin-top:40px;
+    margin-left:30px;
+
+  }
+
+
+
+  .likedItems{
+
+    margin-top:-70px;
+    margin-left:1100px;
+  }
+
+  .cart{
+
+    margin-top:-32px;
+    margin-left:1200px;
+  }
+
+  .head{
+
+    margin-top:-31px;
+    margin-left:1304px;
+  }
+
+  .body{
+
+    margin-top:-19px;
+    margin-left:1299px;
+  }
+
+  .notifications{
+
+    margin-top:-19px;
+    margin-left:1399px;
+  }
+
